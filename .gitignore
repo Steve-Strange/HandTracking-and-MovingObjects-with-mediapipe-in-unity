@@ -1,1 +1,3 @@
 HandTracking-unity/*
+!HandTracking-unity/Assets
+!HandTracking-unity/ProjectSettings
